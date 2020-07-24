@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages (this one is mine)
+## Welcome to My GitHub Page
 
 You can use the [editor on GitHub](https://github.com/ghespinosa/ghespinosa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Check out my blog: http://gusanito.blogs.wm.edu/
+
+[Blog](http://gusanito.blogs.wm.edu/)
+
+<img src= "http://gusanito.blogs.wm.edu/files/2019/05/cropped-Gusanito-Logo-1024x353.png"> <br />
 
 ### Markdown
 
